@@ -162,19 +162,9 @@ Geographical location remains one of the strongest salary determinants.
 
 ### Main Dashboard
 
-![Dashboard](Images/dashboard.png)
+![D)
 
 ### Salary Trend Analysis
-
-![Salary Trend](Images/salary_trend.png)
-
-### Global Distribution Map
-
-![Map](Images/global_jobs_map.png)
-
-### Top Paying Roles
-
-![Top Roles](Images/top_roles.png)
 
 ---
 
@@ -217,8 +207,6 @@ This project demonstrates my ability to transform raw data into meaningful insig
 
 ## 👨‍💻 Author
 
-**Daniel Tabutu Kaboto**
+**Daniel Kaboto**
 
-Aspiring Data Analyst | Artificial Intelligence Student | Excel & Data Visualization Enthusiast
 
-Connect with me on LinkedIn and feel free to explore my other analytics projects.
