@@ -158,15 +158,6 @@ Geographical location remains one of the strongest salary determinants.
 
 ---
 
-## 📷 Dashboard Preview
-
-### Main Dashboard
-
-![D)
-
-### Salary Trend Analysis
-
----
 
 ## 📂 Project Structure
 
@@ -207,6 +198,6 @@ This project demonstrates my ability to transform raw data into meaningful insig
 
 ## 👨‍💻 Author
 
-**Daniel Kaboto**
+**Sensei-Kaboto**
 
 
